@@ -108,9 +108,11 @@
 
 ## 🚀 下载安装
 
-到[这里](https://wwp.lanzouj.com/iFZCQ08bwevc?webpage=AzJRMABoVDgCYgdkB2JcZVU4AjZRcgs_bVWRQZwJmATUGP1YyD2AGLgRj)下载
+到[这里](https://wwp.lanzouj.com/b03j2esyb)下载``EQ面板go-cqhttp整合包.7z``，密码h3ik
 
-如果7z打不开，请下载开源压缩解压软件[7zip](https://wwp.lanzouj.com/i8dI907lvc4b?webpage=ADFVNFw0Am4FZQtoUTRQaQBtBDBQcwM2VWZRblQ_aU2MEMFM8DmIHL1E2)
+如果7z打不开，请下载开源压缩解压软件``7zip``
+
+如果没有安装微软运行库，请下载安装``微软运行库合集``
 
 👉[用户手册](./EQ-BDS面板用户手册.md#一面板的安装)👈里面有详细的信息
 
